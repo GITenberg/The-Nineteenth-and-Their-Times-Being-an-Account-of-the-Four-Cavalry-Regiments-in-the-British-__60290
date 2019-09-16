@@ -1,5 +1,8 @@
 _repo: The-Nineteenth-and-Their-Times-Being-an-Account-of-the-Four-Cavalry-Regiments-in-the-British-__60290
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60290-h/images/cover.jpg
 creator:
   author:
     agent_name: Biddulph, J. (John)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3965'
     url: http://www.gutenberg.org/2009/agents/3965
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60290#The-Nineteenth-and-Their-Times-Being-an-Account-of-the-Four-Cavalry-Regiments-in-the-British-_
 gutenberg_issued: '2019-09-12'
 gutenberg_type: Text
 identifiers:
